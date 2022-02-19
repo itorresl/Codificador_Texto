@@ -1,0 +1,87 @@
+
+html{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+body{
+    margin:0;
+    background-color:#efefef;
+}
+
+header{
+    background-color:#4B0082;
+    color:white;
+    padding: 2rem 2rem;
+
+}
+
+header h1{
+
+    font-size:3rem;
+    text-align: center;
+}
+
+.container{
+    background-color: #FF6347;
+    padding: 2rem 2rem 16rem 16rem;
+    margin: 10px 10px;
+}
+
+
+#copy { 
+    padding: 8px 18px; 
+    background: light-gray; 
+    color: black; 
+  } 
+  #copy:hover { 
+    padding: auto; 
+    background: blue; 
+    color: white; 
+  } 
+  
+  #encriptar { 
+    padding: 8px 18px; 
+    background: light-gray; 
+    color: black; 
+
+  } 
+  #encriptar:hover { 
+    padding: auto; 
+    background: blue; 
+    color: white; 
+  } 
+ 
+  #desencriptar { 
+    padding: 8px 18px; 
+    background: light-gray; 
+    color: black; 
+    margin:30px, 40px
+  } 
+  #desencriptar:hover { 
+    padding: auto; 
+    background: blue; 
+    color: white; 
+  } 
+ 
+
+  #mensaje,#codificado {
+    border-radius: 10px;
+    border: 2px solid #39c;
+    width: 250px;
+    padding: 10px;
+  }
+
+  /*encriptar{
+
+    margin: top 10px;;
+  }
+   */
+  footer{
+    background-color: #848484;
+    color:white;
+    text-align: 10px 10px;
+    padding: 2rem 2rem;
+    
+  }
